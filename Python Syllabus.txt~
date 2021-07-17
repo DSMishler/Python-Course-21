@@ -1,0 +1,16 @@
+- Basics
+  - Need something flashy to show on the first day
+  - Functions
+    - Print
+    - Type
+- Objects, classes
+  - Thanksgiving Dinner
+- Random Numbers
+  - Demo sameness of rands
+- File Parsing
+- Conventions
+  - Camel Case vs. Pascal Case vs. Snake Case
+    - Pick one and go with it, or at least be consistent across variable types
+  - Modularity
+  - Robustness
+  - Commenting

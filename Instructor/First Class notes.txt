@@ -1,0 +1,22 @@
+- What is Python?
+- What is a function?
+  - print()
+  - type()
+- What is a variable?
+  - Demo with changing variables
+- Now use the side on the left: We're going to write a program
+  - It's usally bad practice to have much junk here - normally it's just functions
+- You can write your own functions!
+  - Yell()
+  - Cubed()
+  - Round()
+  - cover indentation and variable naming conventions here.
+  - camelCase, PascalCase, snake_case
+- Let's cover some data types:
+  - int
+  - float
+  - tuple
+  - array
+  - list
+  - string
+  - (won't use, but) dictionary
